@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Factorial in units numbers</description>
+   <name>Calt_001</name>
+   <tag>Calt_001 Test Factorial in units numbers</tag>
+   <comment></comment>
+   <testCaseGuid>5805a757-3728-435c-8316-b78e7f83dc8b</testCaseGuid>
+</TestCaseEntity>

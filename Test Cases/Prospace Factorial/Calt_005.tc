@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Factorial in alphabetics and symbol</description>
+   <name>Calt_005</name>
+   <tag>Calt_005 Test Factorial in alphabetics and symbol</tag>
+   <comment></comment>
+   <testCaseGuid>7c8d5ccb-eb59-434e-b2a9-dcf29ea437d7</testCaseGuid>
+</TestCaseEntity>
